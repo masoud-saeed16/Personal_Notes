@@ -1,1 +1,1 @@
-# Personal_Notes
+Welcome to my repository of Ethical Hacking Notes! 🛡️ As a cybersecurity enthusiast and student, I'm sharing my insights, discoveries, and practical tips in the realm of ethical hacking and penetration testing. Dive in, explore the challenges, and let's fortify digital security together! 💻✨ #EthicalHacking #PenTestNotes
